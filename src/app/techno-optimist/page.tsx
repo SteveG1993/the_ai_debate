@@ -1,105 +1,70 @@
-const optimistArticles = [
-  {
-    id: 1,
-    title: "AI Revolutionizes Climate Change Solutions",
-    summary: "Machine learning algorithms help identify new materials for carbon capture, accelerating clean energy innovation.",
-    source: "MIT Technology Review",
-    date: "2024-01-15",
-    url: "#"
-  },
-  {
-    id: 2,
-    title: "Medical AI Saves Lives Through Early Detection",
-    summary: "AI system achieves 95% accuracy in cancer screening, potentially preventing thousands of deaths annually.",
-    source: "Nature Medicine",
-    date: "2024-01-14",
-    url: "#"
-  },
-  {
-    id: 3,
-    title: "AI Tutors Personalize Learning for Millions",
-    summary: "Adaptive AI systems provide customized education, improving learning outcomes for students worldwide.",
-    source: "EdTech Weekly",
-    date: "2024-01-13",
-    url: "#"
-  },
-  {
-    id: 4,
-    title: "Autonomous Vehicles Reduce Traffic Deaths by 40%",
-    summary: "Latest data shows self-driving cars significantly improve road safety in pilot programs across major cities.",
-    source: "Transportation Today",
-    date: "2024-01-12",
-    url: "#"
-  }
-];
+import { loadArticles, CATEGORIES } from '@/lib/content';
+import ArticleCard from '@/components/ArticleCard';
 
-export default function TechnoOptimist() {
+export default async function TechnoOptimistPage() {
+  const articles = await loadArticles('techno-optimist');
+
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       <div className="text-center py-12">
-        <h1 className="text-4xl font-bold text-green-700 mb-4">
-          Techno-Optimist Perspective
+        <h1 className="text-4xl font-bold text-gray-900 mb-4">
+          {CATEGORIES['techno-optimist'].title}
         </h1>
-        <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-          Discover the positive potential of AI technology. From breakthrough medical advances 
-          to solutions for global challenges, explore how AI is creating a better future.
+        <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+          {CATEGORIES['techno-optimist'].description}
         </p>
       </div>
 
-      <div className="grid gap-8">
-        {optimistArticles.map((article) => (
-          <article key={article.id} className="bg-white rounded-lg shadow-md p-8 border-l-4 border-green-500">
-            <div className="flex justify-between items-start mb-4">
-              <div className="bg-green-100 text-green-800 px-3 py-1 rounded-full text-sm font-medium">
-                Positive Impact
-              </div>
-              <div className="text-right text-sm text-gray-500">
-                <div>{article.source}</div>
-                <div>{article.date}</div>
-              </div>
-            </div>
-            
-            <h2 className="text-2xl font-bold text-gray-900 mb-4">
-              {article.title}
-            </h2>
-            
-            <p className="text-gray-700 mb-6 text-lg leading-relaxed">
-              {article.summary}
-            </p>
-            
-            <div className="flex justify-between items-center">
-              <button className="bg-green-600 text-white px-6 py-2 rounded-lg hover:bg-green-700 transition">
-                Read Full Article
-              </button>
-              <div className="text-sm text-gray-500">
-                💬 Join Discussion
-              </div>
-            </div>
-            
-            {/* Mock discussion preview */}
-            <div className="mt-6 pt-6 border-t border-gray-200">
-              <h3 className="font-semibold text-gray-900 mb-3">Recent Discussion</h3>
-              <div className="bg-gray-50 p-4 rounded-lg">
-                <p className="text-sm text-gray-600 italic">
-                  "This is exactly the kind of breakthrough we need. AI applied responsibly can solve our biggest challenges."
-                </p>
-                <div className="text-xs text-gray-500 mt-2">— Reader comment from 2 hours ago</div>
-              </div>
-            </div>
-          </article>
-        ))}
+      <div className="mb-8">
+        <div className="flex items-center justify-between">
+          <h2 className="text-2xl font-bold text-gray-900">
+            Latest Articles ({articles.length})
+          </h2>
+          <div className="text-sm text-gray-500">
+            Updated daily at 8:00 AM EST
+          </div>
+        </div>
       </div>
 
-      <div className="mt-12 text-center">
-        <div className="bg-green-50 rounded-lg p-8">
-          <h2 className="text-2xl font-bold text-green-700 mb-4">
-            The Promise of AI
-          </h2>
-          <p className="text-gray-700 max-w-2xl mx-auto">
-            Artificial intelligence represents humanity's greatest opportunity to solve complex problems 
-            at scale. From accelerating scientific discovery to democratizing access to education and healthcare, 
-            AI can amplify human potential and create unprecedented prosperity.
+      {articles.length > 0 ? (
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {articles.map((article) => (
+            <ArticleCard key={article.id} article={article} />
+          ))}
+        </div>
+      ) : (
+        <div className="text-center py-16">
+          <div className="text-green-400 mb-4">
+            <svg className="mx-auto h-16 w-16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <h3 className="text-xl font-medium text-gray-600 mb-2">No optimist articles yet</h3>
+          <p className="text-gray-500 max-w-md mx-auto">
+            We're currently fetching the latest positive perspectives on AI development. 
+            Check back soon for inspiring content about AI's potential benefits!
           </p>
+        </div>
+      )}
+
+      {/* Category Info */}
+      <div className="mt-16 bg-green-50 rounded-lg p-8">
+        <h3 className="text-2xl font-bold text-green-800 mb-4">About Techno-Optimist Perspectives</h3>
+        <div className="prose prose-green max-w-none">
+          <p className="text-green-700">
+            This section showcases articles that highlight the positive potential of artificial intelligence. 
+            Here you'll find content about AI breakthroughs, beneficial applications, and optimistic 
+            outlooks on how AI can solve global challenges and improve human lives.
+          </p>
+          <p className="text-green-700 mt-4">
+            <strong>What you'll find here:</strong>
+          </p>
+          <ul className="text-green-700 mt-2">
+            <li>AI breakthroughs in healthcare, education, and science</li>
+            <li>Success stories of AI improving efficiency and outcomes</li>
+            <li>Research on AI's potential to solve global challenges</li>
+            <li>Innovations that demonstrate AI's beneficial applications</li>
+          </ul>
         </div>
       </div>
     </div>

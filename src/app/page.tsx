@@ -1,30 +1,18 @@
 import Link from "next/link";
+import { loadAllArticles, CATEGORIES, Article } from '@/lib/content';
+import ArticleCard from '@/components/ArticleCard';
 
-const mockArticles = [
-  {
-    id: 1,
-    title: "AI Breakthrough in Medical Diagnosis",
-    summary: "New AI system achieves 95% accuracy in early cancer detection, potentially saving thousands of lives.",
-    category: "optimist",
-    date: "2024-01-15",
-  },
-  {
-    id: 2,
-    title: "Concerns Rise Over AI Job Displacement",
-    summary: "Study shows 40% of current jobs may be affected by AI automation within the next decade.",
-    category: "skeptic",
-    date: "2024-01-14",
-  },
-  {
-    id: 3,
-    title: "GitHub Copilot X: The Future of Coding",
-    summary: "Microsoft's latest AI coding assistant promises to revolutionize software development workflows.",
-    category: "coding",
-    date: "2024-01-13",
-  },
-];
-
-export default function Home() {
+export default async function Home() {
+  const allArticles = await loadAllArticles();
+  
+  // Get featured articles (2 most recent from each category)
+  const featuredArticles: Article[] = [];
+  Object.entries(allArticles).forEach(([category, articles]) => {
+    featuredArticles.push(...articles.slice(0, 2));
+  });
+  
+  // Sort featured articles by publication date
+  featuredArticles.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
   return (
     <div className="max-w-7xl mx-auto px-4 py-8">
       <section className="text-center py-16">
@@ -62,39 +50,25 @@ export default function Home() {
           Latest Articles
         </h2>
         
-        <div className="grid md:grid-cols-3 gap-8">
-          {mockArticles.map((article) => (
-            <div key={article.id} className="bg-white rounded-lg shadow-md p-6">
-              <div className={`inline-block px-3 py-1 rounded-full text-sm font-medium mb-3 ${
-                article.category === 'optimist' ? 'bg-green-100 text-green-800' :
-                article.category === 'skeptic' ? 'bg-red-100 text-red-800' :
-                'bg-blue-100 text-blue-800'
-              }`}>
-                {article.category === 'optimist' ? 'Techno-Optimist' :
-                 article.category === 'skeptic' ? 'Techno-Skeptic' :
-                 'AI Coding'}
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {featuredArticles.length > 0 ? (
+            featuredArticles.slice(0, 6).map((article) => (
+              <ArticleCard key={article.id} article={article} showCategory={true} />
+            ))
+          ) : (
+            <div className="col-span-full text-center py-12">
+              <div className="text-gray-400 mb-4">
+                <svg className="mx-auto h-16 w-16" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 20H5a2 2 0 01-2-2V6a2 2 0 012-2h10a2 2 0 012 2v1m2 13a2 2 0 01-2-2V7m2 13a2 2 0 002-2V9a2 2 0 00-2-2h-2m-4-3H9M7 16h6M7 8h6v4H7V8z" />
+                </svg>
               </div>
-              
-              <h3 className="text-xl font-semibold text-gray-900 mb-3">
-                {article.title}
-              </h3>
-              
-              <p className="text-gray-600 mb-4">
-                {article.summary}
+              <h3 className="text-xl font-medium text-gray-600 mb-2">No articles yet</h3>
+              <p className="text-gray-500">
+                Articles will appear here automatically at 8:00 AM EST daily. 
+                Check back soon for the latest AI perspectives!
               </p>
-              
-              <div className="flex justify-between items-center">
-                <span className="text-sm text-gray-500">{article.date}</span>
-                <Link 
-                  href={`/${article.category === 'optimist' ? 'techno-optimist' : 
-                           article.category === 'skeptic' ? 'techno-skeptic' : 'ai-coding'}`}
-                  className="text-blue-600 hover:text-blue-800 font-medium"
-                >
-                  Read More →
-                </Link>
-              </div>
             </div>
-          ))}
+          )}
         </div>
       </section>
 

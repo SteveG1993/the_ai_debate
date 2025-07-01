@@ -1,0 +1,73 @@
+{
+  "sources": {
+    "techno-optimist": [
+      {
+        "name": "MIT Technology Review - AI Section",
+        "rss": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+        "category": "optimist",
+        "credibility": 0.9,
+        "active": true
+      },
+      {
+        "name": "VentureBeat AI",
+        "rss": "https://venturebeat.com/ai/feed/",
+        "category": "optimist",
+        "credibility": 0.8,
+        "active": true
+      },
+      {
+        "name": "AI News - Positive",
+        "rss": "https://www.artificialintelligence-news.com/feed/",
+        "category": "optimist",
+        "credibility": 0.7,
+        "active": true
+      }
+    ],
+    "techno-skeptic": [
+      {
+        "name": "AI Now Institute",
+        "rss": "https://ainowinstitute.org/feed.xml",
+        "category": "skeptic",
+        "credibility": 0.9,
+        "active": true
+      },
+      {
+        "name": "Center for AI Safety",
+        "rss": "https://www.safe.ai/feed",
+        "category": "skeptic",
+        "credibility": 0.9,
+        "active": true
+      },
+      {
+        "name": "Algorithm Watch",
+        "rss": "https://algorithmwatch.org/en/feed/",
+        "category": "skeptic",
+        "credibility": 0.8,
+        "active": true
+      }
+    ],
+    "ai-coding": [
+      {
+        "name": "GitHub Blog - AI",
+        "rss": "https://github.blog/tag/ai/feed/",
+        "category": "coding",
+        "credibility": 0.9,
+        "active": true
+      },
+      {
+        "name": "Stack Overflow Blog",
+        "rss": "https://stackoverflow.blog/feed/",
+        "category": "coding",
+        "credibility": 0.8,
+        "active": true
+      },
+      {
+        "name": "OpenAI Blog",
+        "rss": "https://openai.com/blog/rss.xml",
+        "category": "coding",
+        "credibility": 0.9,
+        "active": true
+      }
+    ]
+  }
+}
