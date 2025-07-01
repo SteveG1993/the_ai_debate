@@ -100,7 +100,7 @@ export default function Home() {
 
       <section className="bg-blue-50 rounded-lg p-8 my-12">
         <h2 className="text-2xl font-bold text-center text-gray-900 mb-4">
-          Why AI Balance?
+          Why AI Perspectives?
         </h2>
         <p className="text-gray-700 text-center max-w-2xl mx-auto">
           In the rapidly evolving world of artificial intelligence, it's crucial to examine both 
