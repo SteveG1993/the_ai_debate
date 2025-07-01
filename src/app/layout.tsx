@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AI Balance - Exploring AI's Impact",
+  title: "AI Perspectives - Exploring AI's Impact",
   description: "A balanced perspective on AI development, ethics, and tools - featuring both optimistic and cautious viewpoints.",
 };
 

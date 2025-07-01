@@ -3,7 +3,7 @@ export default function About() {
     <div className="max-w-4xl mx-auto px-4 py-8">
       <div className="text-center py-12">
         <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          About AI Balance
+          About AI Perspectives
         </h1>
         <p className="text-xl text-gray-600 max-w-2xl mx-auto">
           Fostering informed discourse about artificial intelligence through balanced perspectives
@@ -14,7 +14,7 @@ export default function About() {
         <section className="mb-12">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Our Mission</h2>
           <p className="text-gray-700 leading-relaxed">
-            AI Balance exists to provide a platform for thoughtful discussion about artificial intelligence's 
+            AI Perspectives exists to provide a platform for thoughtful discussion about artificial intelligence's 
             impact on society. We believe that understanding AI requires examining both its tremendous potential 
             and its legitimate risks. By presenting multiple perspectives, we help readers develop nuanced 
             viewpoints about this transformative technology.
@@ -56,7 +56,7 @@ export default function About() {
         </section>
 
         <section className="mb-12">
-          <h2 className="text-2xl font-bold text-gray-900 mb-6">Why Balance Matters</h2>
+          <h2 className="text-2xl font-bold text-gray-900 mb-6">Why AI Matters</h2>
           <p className="text-gray-700 leading-relaxed mb-4">
             The AI discourse is often polarized between utopian visions and dystopian fears. 
             This polarization doesn't serve anyone well. Reality lies somewhere in between, 
@@ -91,7 +91,7 @@ export default function About() {
         <section className="text-center">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">Join the Conversation</h2>
           <p className="text-gray-700 leading-relaxed mb-6">
-            AI Balance is a community-driven platform. We encourage thoughtful discussion, 
+            AI Perspectives is a community-driven platform. We encourage thoughtful discussion, 
             respectful debate, and evidence-based arguments. Whether you're an AI researcher, 
             developer, policymaker, or simply curious about AI's future, your perspective matters.
           </p>

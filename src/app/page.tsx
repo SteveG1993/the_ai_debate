@@ -29,7 +29,7 @@ export default function Home() {
     <div className="max-w-7xl mx-auto px-4 py-8">
       <section className="text-center py-16">
         <h1 className="text-5xl font-bold text-gray-900 mb-6">
-          AI Balance
+          AI Perspectives
         </h1>
         <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
           Exploring AI's impact through balanced perspectives. Discover the promise and perils 

@@ -119,7 +119,7 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Navigat
 ;
 ;
 const metadata = {
-    title: "AI Balance - Exploring AI's Impact",
+    title: "AI Perspectives - Exploring AI's Impact",
     description: "A balanced perspective on AI development, ethics, and tools - featuring both optimistic and cautious viewpoints."
 };
 function RootLayout({ children }) {
