@@ -32,10 +32,10 @@
         "active": true
       },
       {
-        "name": "Center for AI Safety",
-        "rss": "https://www.safe.ai/feed",
+        "name": "Science Daily - AI Ethics",
+        "rss": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
         "category": "skeptic",
-        "credibility": 0.9,
+        "credibility": 0.8,
         "active": true
       },
       {
