@@ -18,6 +18,14 @@ jobs:
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 1
+
+    - name: Verify sources configuration
+      run: |
+        echo "Current sources.json content:"
+        cat data/sources.json
+        echo "Checking for ainowinstitute.org references:"
+        grep -n "ainowinstitute" data/sources.json || echo "No ainowinstitute references found (good!)"
       
     - name: Setup Node.js
       uses: actions/setup-node@v4
