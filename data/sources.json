@@ -25,8 +25,8 @@
     ],
     "techno-skeptic": [
       {
-        "name": "AI Now Institute",
-        "rss": "https://ainowinstitute.org/feed.xml",
+        "name": "MIT News - AI Ethics",
+        "rss": "https://news.mit.edu/topic/artificial-intelligence2/feed",
         "category": "skeptic",
         "credibility": 0.9,
         "active": true
