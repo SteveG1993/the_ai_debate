@@ -12,7 +12,8 @@
       "WebFetch(domain:alignment.anthropic.com)",
       "Bash(curl:*)",
       "Bash(find:*)",
-      "Bash(git pull:*)"
+      "Bash(git pull:*)",
+      "Bash(git rebase:*)"
     ],
     "deny": []
   }

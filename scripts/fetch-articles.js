@@ -62,7 +62,7 @@ class ArticleFetcher {
         description: this.extractText(item.description || item.summary || item.content),
         link: item.link?.href || item.link,
         pubDate: item.pubDate || item.published || item.updated,
-        guid: item.guid || item.id || this.generateId(item.title, item.link)
+        guid: this.extractText(item.guid) || this.extractText(item.id) || this.generateId(item.title, item.link)
       })).filter(article => article.title && article.link);
     } catch (error) {
       console.error('Error parsing RSS content:', error);
