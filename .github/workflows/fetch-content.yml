@@ -63,5 +63,6 @@ jobs:
             github.rest.actions.createWorkflowDispatch({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              workflow_id: 'deploy.yml'
+              workflow_id: 'deploy.yml',
+              ref: context.ref  // This ensures the workflow is triggered on the current branch
             });
