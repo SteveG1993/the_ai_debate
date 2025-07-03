@@ -95,7 +95,7 @@ export async function getArticleById(id: string): Promise<Article | null> {
   const allArticles = await loadAllArticles();
   
   for (const articles of Object.values(allArticles)) {
-    const article = articles.find(a => a.id === id);
+    const article = articles.find((a: Article) => a.id === id);
     if (article) return article;
   }
   
