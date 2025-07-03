@@ -41,8 +41,8 @@ export default async function TechnoOptimistPage() {
           </div>
           <h3 className="text-xl font-medium text-gray-600 mb-2">No optimist articles yet</h3>
           <p className="text-gray-500 max-w-md mx-auto">
-            We're currently fetching the latest positive perspectives on AI development. 
-            Check back soon for inspiring content about AI's potential benefits!
+            We&apos;re currently fetching the latest positive perspectives on AI development. 
+            Check back soon for inspiring content about AI&apos;s potential benefits!
           </p>
         </div>
       )}
@@ -53,17 +53,17 @@ export default async function TechnoOptimistPage() {
         <div className="prose prose-green max-w-none">
           <p className="text-green-700">
             This section showcases articles that highlight the positive potential of artificial intelligence. 
-            Here you'll find content about AI breakthroughs, beneficial applications, and optimistic 
+            Here you&apos;ll find content about AI breakthroughs, beneficial applications, and optimistic 
             outlooks on how AI can solve global challenges and improve human lives.
           </p>
           <p className="text-green-700 mt-4">
-            <strong>What you'll find here:</strong>
+            <strong>What you&apos;ll find here:</strong>
           </p>
           <ul className="text-green-700 mt-2">
             <li>AI breakthroughs in healthcare, education, and science</li>
             <li>Success stories of AI improving efficiency and outcomes</li>
-            <li>Research on AI's potential to solve global challenges</li>
-            <li>Innovations that demonstrate AI's beneficial applications</li>
+            <li>Research on AI&apos;s potential to solve global challenges</li>
+            <li>Innovations that demonstrate AI&apos;s beneficial applications</li>
           </ul>
         </div>
       </div>

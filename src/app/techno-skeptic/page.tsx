@@ -41,7 +41,7 @@ export default async function TechnoSkepticPage() {
           </div>
           <h3 className="text-xl font-medium text-gray-600 mb-2">No skeptic articles yet</h3>
           <p className="text-gray-500 max-w-md mx-auto">
-            We're currently fetching the latest critical analyses of AI development. 
+            We&apos;re currently fetching the latest critical analyses of AI development. 
             Check back soon for thoughtful content about AI risks and challenges!
           </p>
         </div>
@@ -53,11 +53,11 @@ export default async function TechnoSkepticPage() {
         <div className="prose prose-red max-w-none">
           <p className="text-red-700">
             This section presents critical analyses and cautionary perspectives on artificial intelligence development. 
-            Here you'll find content that examines potential risks, unintended consequences, and the need for 
+            Here you&apos;ll find content that examines potential risks, unintended consequences, and the need for 
             responsible AI governance and regulation.
           </p>
           <p className="text-red-700 mt-4">
-            <strong>What you'll find here:</strong>
+            <strong>What you&apos;ll find here:</strong>
           </p>
           <ul className="text-red-700 mt-2">
             <li>Analysis of AI risks and potential negative consequences</li>

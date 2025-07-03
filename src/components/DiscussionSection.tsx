@@ -15,7 +15,7 @@ interface DiscussionSectionProps {
   title: string;
 }
 
-export default function DiscussionSection({ articleId, title }: DiscussionSectionProps) {
+export default function DiscussionSection({}: DiscussionSectionProps) {
   const [comments, setComments] = useState<Comment[]>([]);
   const [newComment, setNewComment] = useState('');
   const [authorName, setAuthorName] = useState('');

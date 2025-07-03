@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { loadAllArticles, CATEGORIES, Article } from '@/lib/content';
+import { loadAllArticles, Article } from '@/lib/content';
 import ArticleCard from '@/components/ArticleCard';
 
 export default async function Home() {
@@ -7,7 +7,7 @@ export default async function Home() {
   
   // Get featured articles (2 most recent from each category)
   const featuredArticles: Article[] = [];
-  Object.entries(allArticles).forEach(([category, articles]) => {
+  Object.entries(allArticles).forEach(([, articles]) => {
     featuredArticles.push(...articles.slice(0, 2));
   });
   
@@ -20,7 +20,7 @@ export default async function Home() {
           AI Perspectives
         </h1>
         <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-          Exploring AI's impact through balanced perspectives. Discover the promise and perils 
+          Exploring AI&apos;s impact through balanced perspectives. Discover the promise and perils 
           of artificial intelligence, from breakthrough innovations to ethical challenges.
         </p>
         <div className="flex justify-center space-x-4">

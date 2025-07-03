@@ -41,7 +41,7 @@ export default async function AICodingPage() {
           </div>
           <h3 className="text-xl font-medium text-gray-600 mb-2">No coding articles yet</h3>
           <p className="text-gray-500 max-w-md mx-auto">
-            We're currently fetching the latest developments in AI coding tools. 
+            We&apos;re currently fetching the latest developments in AI coding tools. 
             Check back soon for exciting content about AI-powered development!
           </p>
         </div>
@@ -53,11 +53,11 @@ export default async function AICodingPage() {
         <div className="prose prose-blue max-w-none">
           <p className="text-blue-700">
             This section focuses on the latest developments in AI-powered development tools and programming assistance. 
-            Here you'll find content about coding assistants, automated development workflows, and how AI is 
+            Here you&apos;ll find content about coding assistants, automated development workflows, and how AI is 
             transforming the software development process.
           </p>
           <p className="text-blue-700 mt-4">
-            <strong>What you'll find here:</strong>
+            <strong>What you&apos;ll find here:</strong>
           </p>
           <ul className="text-blue-700 mt-2">
             <li>Reviews and updates on AI coding assistants (GitHub Copilot, ChatGPT, etc.)</li>
