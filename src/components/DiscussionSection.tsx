@@ -11,8 +11,8 @@ interface Comment {
 }
 
 interface DiscussionSectionProps {
-  articleId: string;
-  title: string;
+  articleId?: string;
+  title?: string;
 }
 
 export default function DiscussionSection({}: DiscussionSectionProps) {

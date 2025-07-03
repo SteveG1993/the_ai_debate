@@ -4,13 +4,14 @@ import { getArticleById, formatDate, getTimeAgo } from '@/lib/content';
 import DiscussionSection from '@/components/DiscussionSection';
 
 interface ArticlePageProps {
-  params: {
+  params: Promise<{
     id: string;
-  };
+  }>;
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
-  const article = await getArticleById(params.id);
+  const { id } = await params;
+  const article = await getArticleById(id);
 
   if (!article) {
     notFound();
@@ -48,11 +49,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       <nav className="mb-8">
         <div className="flex items-center space-x-2 text-sm text-gray-500">
           <Link href="/" className="hover:text-blue-600">Home</Link>
-          <span>’</span>
+          <span>ï¿½</span>
           <Link href={`/${article.category}`} className="hover:text-blue-600">
             {getCategoryLabel(article.category)}
           </Link>
-          <span>’</span>
+          <span>ï¿½</span>
           <span className="text-gray-900">Article Discussion</span>
         </div>
       </nav>
@@ -137,7 +138,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       </article>
 
       {/* Discussion Section */}
-      <DiscussionSection articleId={article.id} title={article.title} />
+      <DiscussionSection />
     </div>
   );
 }
