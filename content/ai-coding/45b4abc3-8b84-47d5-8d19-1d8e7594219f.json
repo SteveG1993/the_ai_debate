@@ -1,0 +1,19 @@
+{
+  "id": "45b4abc3-8b84-47d5-8d19-1d8e7594219f",
+  "title": "You've vibe coded an app. Now what?",
+  "description": "On this episode, Ryan chats with Vish Abrams, chief architect at Heroku, about all the work that needs to be done after you’ve vibe coded your dream app.",
+  "link": "https://stackoverflow.blog/2025/06/25/you-ve-vibe-coded-an-app-now-what/",
+  "pubDate": "Wed, 25 Jun 2025 04:42:00 GMT",
+  "source": "Stack Overflow Blog",
+  "category": "ai-coding",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-07-03T00:04:47.842Z",
+  "expiresDate": "2025-07-10T00:04:47.842Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-03T00:04:49.206Z"
+}
