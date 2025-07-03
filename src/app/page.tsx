@@ -77,9 +77,9 @@ export default async function Home() {
           Why AI Perspectives?
         </h2>
         <p className="text-gray-700 text-center max-w-2xl mx-auto">
-          In the rapidly evolving world of artificial intelligence, it's crucial to examine both 
+          In the rapidly evolving world of artificial intelligence, it&apos;s crucial to examine both 
           the incredible opportunities and the legitimate concerns. This platform presents curated 
-          content from multiple perspectives to help you form a well-rounded understanding of AI's 
+          content from multiple perspectives to help you form a well-rounded understanding of AI&apos;s 
           impact on our future.
         </p>
       </section>
