@@ -1,0 +1,19 @@
+{
+  "id": "4e5dc219-42b4-461a-b532-e9d1fc4c74b1",
+  "title": "Why call one API when you can use GraphQL to call them all?",
+  "description": "Ryan welcomes Matt DeBergalis, CTO at Apollo GraphQL, to discuss the evolution and future of API orchestration, the benefits of GraphQL in managing API complexity, its seamless integration with AI and modern development stacks, and how it enhances developer experience through better tooling and infrastructure.",
+  "link": "https://stackoverflow.blog/2025/07/04/why-call-one-api-when-you-can-use-graphql-to-call-them-all/",
+  "pubDate": "Fri, 04 Jul 2025 07:40:00 GMT",
+  "source": "Stack Overflow Blog",
+  "category": "ai-coding",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-07-04T08:01:54.286Z",
+  "expiresDate": "2025-07-11T08:01:54.286Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.6000000000000001,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-04T08:01:54.691Z"
+}
