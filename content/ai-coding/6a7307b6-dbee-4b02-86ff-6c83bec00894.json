@@ -1,0 +1,19 @@
+{
+  "id": "6a7307b6-dbee-4b02-86ff-6c83bec00894",
+  "title": "A new era of Stack Overflow",
+  "description": "Live from the stage of WeAreDevelopers, we’re unveiling our new vision and mission for the future of Stack Overflow and our community",
+  "link": "https://stackoverflow.blog/2025/07/10/a-new-era-of-stack-overflow/",
+  "pubDate": "Thu, 10 Jul 2025 14:00:00 GMT",
+  "source": "Stack Overflow Blog",
+  "category": "ai-coding",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-07-10T16:01:46.093Z",
+  "expiresDate": "2025-07-17T16:01:46.093Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-10T16:01:49.450Z"
+}
