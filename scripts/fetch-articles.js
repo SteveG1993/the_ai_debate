@@ -45,7 +45,7 @@ class ArticleFetcher {
   parseRSSContent(xmlContent) {
     try {
       const parsed = this.parser.parse(xmlContent);
-      const channel = parsed.rss?.channel || parsed.feed;
+      const channel = parsedai debate?.channel || parsed.feed;
       
       if (!channel) {
         console.error('No valid RSS/Atom feed found');

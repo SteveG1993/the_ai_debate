@@ -44,6 +44,62 @@
         "category": "skeptic",
         "credibility": 0.8,
         "active": true
+      },
+      {
+        "name": "AI Snake Oil",
+        "rss": "https://aisnakeoil.substack.com/feed",
+        "category": "skeptic",
+        "credibility": 0.85,
+        "active": true
+      },
+      {
+        "name": "AI Ethics",
+        "rss": "https://artificial-intelligence.blog/category/ethics/feed/",
+        "category": "skeptic",
+        "credibility": 0.85,
+        "active": true
+      },
+      {
+        "name": "Radical Briefing",
+        "rss": "https://radicalbriefing.substack.com/feed",
+        "category": "skeptic",
+        "credibility": 0.75,
+        "active": true
+      },
+      {
+        "name": "The Zvi",
+        "rss": "https://thezvi.substack.com/feed",
+        "category": "skeptic",
+        "credibility": 0.7,
+        "active": true
+      },
+      {
+        "name": "Center for Humane Technology Forum",
+        "rss": "https://community.humanetech.com/latest.rss",
+        "category": "skeptic",
+        "credibility": 0.9,
+        "active": true
+      },
+      {
+        "name": "Wired AI Section",
+        "rss": "https://www.wired.com/feed/category/ai/latest/rss",
+        "category": "skeptic",
+        "credibility": 0.85,
+        "active": true
+      },
+      {
+        "name": "AI Alignment Forum",
+        "rss": "https://www.alignmentforum.org/posts.rss",
+        "category": "skeptic",
+        "credibility": 0.8,
+        "active": true
+      },
+      {
+        "name": "LessWrong – AI Tag",
+        "rss": "https://www.lesswrong.com/tag/artificial-intelligence/feed",
+        "category": "skeptic",
+        "credibility": 0.75,
+        "active": true
       }
     ],
     "ai-coding": [
@@ -68,6 +124,7 @@
         "credibility": 0.9,
         "active": true
       }
+
     ]
   }
 }
