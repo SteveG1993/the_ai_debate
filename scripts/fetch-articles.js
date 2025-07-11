@@ -116,7 +116,7 @@ class ArticleFetcher {
       const articleData = {
         ...article,
         fetchedDate: new Date().toISOString(),
-        expiresDate: new Date(Date.now() + 7 * 24 * 60 * 60 * 1000).toISOString() // 7 days from now
+        expiresDate: new Date(Date.now() + 1 * 24 * 60 * 60 * 1000).toISOString() // 1 day from now
       };
       
       await fs.writeFile(filepath, JSON.stringify(articleData, null, 2));
