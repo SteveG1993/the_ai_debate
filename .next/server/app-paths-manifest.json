@@ -1,7 +1,6 @@
 {
-  "/ai-coding/page": "app/ai-coding/page.js",
-  "/about/page": "app/about/page.js",
-  "/techno-skeptic/page": "app/techno-skeptic/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
   "/techno-optimist/page": "app/techno-optimist/page.js",
-  "/page": "app/page.js"
+  "/techno-skeptic/page": "app/techno-skeptic/page.js"
 }
