@@ -15,7 +15,9 @@
       "Bash(git pull:*)",
       "Bash(git rebase:*)",
       "Bash(git config:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(node:*)",
+      "Bash(npm run build:*)"
     ],
     "deny": []
   }

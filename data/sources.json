@@ -111,13 +111,6 @@
         "active": true
       },
       {
-        "name": "Stack Overflow Blog",
-        "rss": "https://stackoverflow.blog/feed/",
-        "category": "coding",
-        "credibility": 0.8,
-        "active": true
-      },
-      {
         "name": "OpenAI Blog",
         "rss": "https://openai.com/blog/rss.xml",
         "category": "coding",

@@ -23,6 +23,56 @@ class ArticleFetcher {
     }
   }
 
+  async loadSourcePullLog() {
+    try {
+      const logPath = path.join(__dirname, '../data/source-pull-log.json');
+      const logData = await fs.readFile(logPath, 'utf8');
+      return JSON.parse(logData);
+    } catch (error) {
+      console.log('Creating new source pull log...');
+      return {
+        sources: {},
+        lastUpdated: null,
+        totalPulls: 0
+      };
+    }
+  }
+
+  async saveSourcePullLog(log) {
+    try {
+      const logPath = path.join(__dirname, '../data/source-pull-log.json');
+      await fs.writeFile(logPath, JSON.stringify(log, null, 2));
+    } catch (error) {
+      console.error('Error saving source pull log:', error);
+    }
+  }
+
+  async updateSourcePullCount(sourceName, sourceUrl) {
+    const log = await this.loadSourcePullLog();
+    
+    const sourceKey = `${sourceName}|${sourceUrl}`;
+    
+    if (!log.sources[sourceKey]) {
+      log.sources[sourceKey] = {
+        name: sourceName,
+        url: sourceUrl,
+        pullCount: 0,
+        firstSeen: new Date().toISOString(),
+        lastPull: null
+      };
+      console.log(`📝 New source detected: ${sourceName}`);
+    }
+    
+    log.sources[sourceKey].pullCount++;
+    log.sources[sourceKey].lastPull = new Date().toISOString();
+    log.lastUpdated = new Date().toISOString();
+    log.totalPulls++;
+    
+    await this.saveSourcePullLog(log);
+    
+    return log.sources[sourceKey].pullCount;
+  }
+
   async fetchRSSFeed(url, retries = 3) {
     for (let i = 0; i < retries; i++) {
       try {
@@ -45,7 +95,7 @@ class ArticleFetcher {
   parseRSSContent(xmlContent) {
     try {
       const parsed = this.parser.parse(xmlContent);
-      const channel = parsedai debate?.channel || parsed.feed;
+      const channel = parsed.rss?.channel || parsed.feed;
       
       if (!channel) {
         console.error('No valid RSS/Atom feed found');
@@ -62,7 +112,7 @@ class ArticleFetcher {
         description: this.extractText(item.description || item.summary || item.content),
         link: item.link?.href || item.link,
         pubDate: item.pubDate || item.published || item.updated,
-        guid: this.extractText(item.guid) || this.extractText(item.id) || this.generateId(item.title, item.link)
+        guid: this.generateValidId(this.extractText(item.guid) || this.extractText(item.id) || item.title, item.link)
       })).filter(article => article.title && article.link);
     } catch (error) {
       console.error('Error parsing RSS content:', error);
@@ -81,6 +131,15 @@ class ArticleFetcher {
   generateId(title, link) {
     const content = `${title || ''}${link || ''}`;
     return crypto.createHash('md5').update(content).digest('hex');
+  }
+
+  generateValidId(originalId, link) {
+    // If originalId looks like a URL or contains invalid filename characters, generate a hash
+    if (!originalId || originalId.includes('://') || originalId.includes('/') || originalId.includes('?') || originalId.includes('#')) {
+      return this.generateId(originalId || '', link || '');
+    }
+    // Clean the ID to ensure it's filesystem-safe
+    return originalId.replace(/[^a-zA-Z0-9\-_]/g, '-');
   }
 
   async loadExistingArticles(category) {
@@ -139,7 +198,9 @@ class ArticleFetcher {
         const xmlContent = await this.fetchRSSFeed(source.rss);
         const articles = this.parseRSSContent(xmlContent);
         
-        for (const article of articles.slice(0, 5)) { // Limit to 5 articles per source
+        // Find the first article that doesn't exist yet (pull one article per source)
+        let articlePulled = false;
+        for (const article of articles) {
           if (!existingArticles.has(article.guid)) {
             const enhancedArticle = {
               id: article.guid,
@@ -154,9 +215,23 @@ class ArticleFetcher {
             };
             
             await this.saveArticle(enhancedArticle, category);
+            
+            // Update pull count for this source
+            const pullCount = await this.updateSourcePullCount(source.name, source.rss);
+            console.log(`✅ Pulled article from ${source.name} (Pull #${pullCount}): ${article.title}`);
+            
             newArticleCount++;
+            articlePulled = true;
+            break; // Only pull one article per source
           }
         }
+        
+        if (!articlePulled && articles.length > 0) {
+          console.log(`⏭️  ${source.name}: All articles already exist, skipping`);
+        } else if (articles.length === 0) {
+          console.log(`⚠️  ${source.name}: No articles found in feed`);
+        }
+        
       } catch (error) {
         console.error(`Error processing source ${source.name}:`, error.message);
       }
@@ -187,6 +262,24 @@ class ArticleFetcher {
     }
 
     console.log(`\n🎉 Fetching complete! Added ${totalNewArticles} new articles total.`);
+    
+    // Display source pull statistics
+    const pullLog = await this.loadSourcePullLog();
+    console.log(`\n📊 Source Pull Statistics:`);
+    console.log(`Total pulls across all sources: ${pullLog.totalPulls}`);
+    console.log(`Total sources tracked: ${Object.keys(pullLog.sources).length}`);
+    
+    // Show top sources by pull count
+    const sortedSources = Object.values(pullLog.sources)
+      .sort((a, b) => b.pullCount - a.pullCount)
+      .slice(0, 5);
+    
+    if (sortedSources.length > 0) {
+      console.log(`\nTop 5 sources by pull count:`);
+      sortedSources.forEach((source, index) => {
+        console.log(`${index + 1}. ${source.name}: ${source.pullCount} pulls`);
+      });
+    }
     
     // Update metadata
     const metadata = {
