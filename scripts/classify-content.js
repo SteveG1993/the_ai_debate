@@ -15,10 +15,10 @@ class ContentClassifier {
     }
 
     try {
-      const prompt = `Analyze this AI-related article and classify it as one of:
-1. "techno-optimist" - focuses on positive aspects, benefits, or promising developments in AI
-2. "techno-skeptic" - focuses on risks, concerns, criticism, or cautionary aspects of AI  
-3. "ai-coding" - focuses on AI development tools, programming, technical implementation
+      const prompt = `Analyze this AI-related or LLM related article and classify it as one of:
+1. "techno-optimist" - focuses on positive aspects, benefits, or promising developments,improved standards of living, LLM helping people in AI
+2. "techno-skeptic" - focuses on risks, concerns, criticism, or cautionary aspects, disruptions, job loss, injustice, future dystopia or evil harm caused by AI
+3. "ai-coding" - focuses on AI development tools, LLM changing the programming profession, new skills applicable to AI development
 
 Title: ${title}
 Description: ${description}

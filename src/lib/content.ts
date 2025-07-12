@@ -63,11 +63,12 @@ export async function loadArticles(category: keyof ArticlesByCategory): Promise<
       const content = fs.readFileSync(filePath, 'utf8');
       const article = JSON.parse(content) as Article;
 
-      // Check if article is expired
+      // Check if article is expired and has valid confidence score
       const now = new Date();
       const expiresDate = new Date(article.expiresDate);
+      const hasValidConfidence = !article.classification || article.classification.confidence > 0;
       
-      if (now < expiresDate) {
+      if (now < expiresDate && hasValidConfidence) {
         articles.push(article);
       }
     }
