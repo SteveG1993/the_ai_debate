@@ -7,7 +7,13 @@
   "source": "Center for Humane Technology Forum",
   "category": "techno-skeptic",
   "credibility": 0.9,
-  "classified": false,
+  "classified": true,
   "fetchedDate": "2025-07-12T05:49:48.115Z",
-  "expiresDate": "2025-07-13T05:49:48.115Z"
+  "expiresDate": "2025-07-13T05:49:48.115Z",
+  "classification": {
+    "category": "techno-skeptic",
+    "confidence": 0.4,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-12T08:02:43.407Z"
 }

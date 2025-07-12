@@ -7,7 +7,13 @@
   "source": "AI Snake Oil",
   "category": "techno-skeptic",
   "credibility": 0.85,
-  "classified": false,
+  "classified": true,
   "fetchedDate": "2025-07-12T05:50:20.232Z",
-  "expiresDate": "2025-07-13T05:50:20.232Z"
+  "expiresDate": "2025-07-13T05:50:20.232Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-12T08:02:50.423Z"
 }

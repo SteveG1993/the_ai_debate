@@ -7,7 +7,13 @@
   "source": "MIT News - AI",
   "category": "techno-skeptic",
   "credibility": 0.9,
-  "classified": false,
+  "classified": true,
   "fetchedDate": "2025-07-12T05:50:18.310Z",
-  "expiresDate": "2025-07-13T05:50:18.310Z"
+  "expiresDate": "2025-07-13T05:50:18.310Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-12T08:02:31.382Z"
 }

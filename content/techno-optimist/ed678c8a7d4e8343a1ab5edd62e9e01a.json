@@ -7,7 +7,13 @@
   "source": "The Zvi",
   "category": "techno-skeptic",
   "credibility": 0.7,
-  "classified": false,
+  "classified": true,
   "fetchedDate": "2025-07-12T05:50:32.746Z",
-  "expiresDate": "2025-07-13T05:50:32.746Z"
+  "expiresDate": "2025-07-13T05:50:32.746Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-12T08:02:51.424Z"
 }

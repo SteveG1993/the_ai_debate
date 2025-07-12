@@ -1,0 +1,19 @@
+{
+  "id": "57c230b6269df66b77c30f3a28bfd423",
+  "title": "AI shapes autonomous underwater “gliders”",
+  "description": "An AI pipeline developed by CSAIL researchers enables unique hydrodynamic designs for bodyboard-sized vehicles that glide underwater and could help scientists gather marine data.",
+  "link": "https://news.mit.edu/2025/ai-shapes-autonomous-underwater-gliders-0709",
+  "pubDate": "Wed, 09 Jul 2025 16:35:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-07-12T08:01:39.339Z",
+  "expiresDate": "2025-07-13T08:01:39.339Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-12T08:02:34.388Z"
+}

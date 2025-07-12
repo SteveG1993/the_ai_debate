@@ -7,7 +7,13 @@
   "source": "OpenAI Blog",
   "category": "ai-coding",
   "credibility": 0.9,
-  "classified": false,
+  "classified": true,
   "fetchedDate": "2025-07-12T05:50:08.245Z",
-  "expiresDate": "2025-07-13T05:50:08.245Z"
+  "expiresDate": "2025-07-13T05:50:08.245Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-12T08:02:53.429Z"
 }
