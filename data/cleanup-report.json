@@ -1,19 +1,19 @@
 {
-  "timestamp": "2025-07-15T05:09:14.482Z",
+  "timestamp": "2025-07-16T05:09:56.483Z",
   "categories": {
     "techno-optimist": {
-      "totalArticles": 8,
+      "totalArticles": 14,
       "articlesRemoved": 0
     },
     "techno-skeptic": {
-      "totalArticles": 3,
+      "totalArticles": 2,
       "articlesRemoved": 0
     },
     "ai-coding": {
-      "totalArticles": 12,
+      "totalArticles": 13,
       "articlesRemoved": 1
     }
   },
   "totalRemoved": 1,
-  "totalRemaining": 22
+  "totalRemaining": 28
 }
