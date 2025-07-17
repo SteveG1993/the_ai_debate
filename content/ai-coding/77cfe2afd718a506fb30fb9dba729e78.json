@@ -1,0 +1,19 @@
+{
+  "id": "77cfe2afd718a506fb30fb9dba729e78",
+  "title": "OpenAI nonprofit jam",
+  "description": "At OpenAI, we build tools to help people solve hard problems—including nonprofits working on the frontlines of their communities. The OpenAI Academy is teaming up with the Walton Family Foundation, Emerson Collective, and a network of local nonprofit organizations to host the Nonprofit Jam—a one-day, nationwide event bringing together more than 1,000 nonprofit leaders across 10 locations.",
+  "link": "https://openai.com/global-affairs/openai-nonprofit-jam",
+  "pubDate": "Thu, 17 Jul 2025 00:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-07-17T13:18:07.123Z",
+  "expiresDate": "2025-07-18T13:18:07.123Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-17T13:18:13.388Z"
+}
