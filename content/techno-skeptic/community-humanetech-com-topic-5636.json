@@ -1,0 +1,19 @@
+{
+  "id": "community-humanetech-com-topic-5636",
+  "title": "Telemetry",
+  "description": "Hi all, i’m working on a web app project, and i’m pretty new to web development. A more experienced web developer recommended that i add telemetry to the web app, but i don’t like the idea of this because of the privacy issues. He says that without telemetry we are fumbling in the dark, not understanding the user. For example he says it can be useful to see where we loose users.\nWhat are your thoughts on telemetry? Can it be done in an ethical way (like asking for consent)? And what privacy-friendly alternatives are there to using telemetry?\nGrateful for help!\n            1 post - 1 participant\n            Read full topic",
+  "link": "https://community.humanetech.com/t/telemetry/5636",
+  "pubDate": "Tue, 08 Oct 2024 11:38:23 +0000",
+  "source": "Center for Humane Technology Forum",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-07-17T00:05:15.366Z",
+  "expiresDate": "2025-07-18T00:05:15.366Z",
+  "classification": {
+    "category": "techno-skeptic",
+    "confidence": 0.4,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-17T00:05:40.859Z"
+}
