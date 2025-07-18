@@ -1,0 +1,19 @@
+{
+  "id": "64c0d2975ec6e92022908c4ae2bbe00c",
+  "title": "A major AI training data set contains millions of examples of personal data",
+  "description": "Millions of images of passports, credit cards, birth certificates, and other documents containing personally identifiable information are likely included in one of the biggest open-source AI training sets, new research has found. Thousands of images—including identifiable faces—were found in a small subset of DataComp CommonPool, a major AI training set for image generation scraped from&#8230;",
+  "link": "https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/",
+  "pubDate": "Fri, 18 Jul 2025 13:08:26 +0000",
+  "source": "MIT Technology Review - AI Section",
+  "category": "techno-optimist",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-07-18T16:02:17.462Z",
+  "expiresDate": "2025-07-19T16:02:17.462Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-18T16:03:04.785Z"
+}
