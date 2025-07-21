@@ -1,0 +1,19 @@
+{
+  "id": "c57a33114d432204b4e744cbb3dee694",
+  "title": "MIT Learn offers “a whole new front door to the Institute”",
+  "description": "The AI-enabled platform serves as a hub for MIT’s lifelong learning opportunities.",
+  "link": "https://news.mit.edu/2025/mit-learn-offers-whole-new-front-door-institute-0721",
+  "pubDate": "Mon, 21 Jul 2025 15:00:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-07-21T20:01:50.685Z",
+  "expiresDate": "2025-07-22T20:01:50.686Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-21T20:02:41.949Z"
+}
