@@ -1,0 +1,19 @@
+{
+  "id": "f1728be32234279d9d676b4c728fc1eb",
+  "title": "Google DeepMind’s new AI can help historians understand ancient Latin inscriptions",
+  "description": "Google DeepMind has unveiled new artificial-intelligence software that could help historians recover the meaning and context behind ancient Latin engravings.&#160; Aeneas can analyze words written in long-weathered stone to say when and where they were originally inscribed. It follows Google’s previous archaeological tool Ithaca, which also used deep learning to reconstruct and contextualize ancient text,&#8230;",
+  "link": "https://www.technologyreview.com/2025/07/23/1120574/deepmind-ai-aeneas-helps-historians-interpret-latin-inscriptions/",
+  "pubDate": "Wed, 23 Jul 2025 15:00:08 +0000",
+  "source": "MIT Technology Review - AI Section",
+  "category": "techno-optimist",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-07-23T16:01:53.836Z",
+  "expiresDate": "2025-07-24T16:01:53.836Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.4,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-23T16:02:50.774Z"
+}
