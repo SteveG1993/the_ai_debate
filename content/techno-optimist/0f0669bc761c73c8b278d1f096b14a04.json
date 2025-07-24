@@ -1,0 +1,19 @@
+{
+  "id": "0f0669bc761c73c8b278d1f096b14a04",
+  "title": "Robot, know thyself: New vision-based system teaches machines to understand their bodies",
+  "description": "Neural Jacobian Fields, developed by MIT CSAIL researchers, can learn to control any robot from a single camera, without any other sensors.",
+  "link": "https://news.mit.edu/2025/vision-based-system-teaches-machines-understand-their-bodies-0724",
+  "pubDate": "Thu, 24 Jul 2025 15:30:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-07-24T20:01:39.691Z",
+  "expiresDate": "2025-07-25T20:01:39.691Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-24T20:02:30.849Z"
+}
