@@ -1,0 +1,19 @@
+{
+  "id": "8f85bcb5d8e86d629a7860caf496d2a5",
+  "title": "Anthropic deploys AI agents to audit models for safety",
+  "description": "Anthropic has built an army of autonomous AI agents with a singular mission: to audit powerful models like Claude to improve safety. As these complex systems rapidly advance, the job of making sure they are safe and don&#8217;t harbour hidden dangers has become a herculean task. Anthropic believes it has found a solution, and it’s [&#8230;]\nThe post Anthropic deploys AI agents to audit models for safety appeared first on AI News.",
+  "link": "https://www.artificialintelligence-news.com/news/anthropic-deploys-ai-agents-audit-models-for-safety/",
+  "pubDate": "Fri, 25 Jul 2025 13:40:34 +0000",
+  "source": "AI News - Positive",
+  "category": "techno-optimist",
+  "credibility": 0.7,
+  "classified": true,
+  "fetchedDate": "2025-07-25T16:01:42.993Z",
+  "expiresDate": "2025-07-26T16:01:42.993Z",
+  "classification": {
+    "category": "techno-skeptic",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-25T16:02:33.273Z"
+}

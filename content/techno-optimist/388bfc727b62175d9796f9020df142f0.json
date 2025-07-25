@@ -1,0 +1,19 @@
+{
+  "id": "388bfc727b62175d9796f9020df142f0",
+  "title": "Harvard’s ultra-thin chip could revolutionize quantum computing",
+  "description": "Researchers at Harvard have created a groundbreaking metasurface that can replace bulky and complex optical components used in quantum computing with a single, ultra-thin, nanostructured layer. This innovation could make quantum networks far more scalable, stable, and compact. By harnessing the power of graph theory, the team simplified the design of these quantum metasurfaces, enabling them to generate entangled photons and perform sophisticated quantum operations — all on a chip thinner than a human hair. It&#039;s a radical leap forward for room-temperature quantum technology and photonics.",
+  "link": "https://www.sciencedaily.com/releases/2025/07/250724232413.htm",
+  "pubDate": "Fri, 25 Jul 2025 07:54:30 EDT",
+  "source": "Science Daily - AI Ethics",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-07-25T16:01:43.342Z",
+  "expiresDate": "2025-07-26T16:01:43.342Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-07-25T16:02:37.286Z"
+}
