@@ -1,8 +1,8 @@
 {
-  "timestamp": "2025-07-30T13:20:10.098Z",
-  "totalArticlesProcessed": 25,
+  "timestamp": "2025-07-31T13:18:56.172Z",
+  "totalArticlesProcessed": 24,
   "duplicateGroupsFound": 0,
   "articlesRemoved": 0,
-  "articlesRemaining": 25,
+  "articlesRemaining": 24,
   "duplicateGroups": []
 }
