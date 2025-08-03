@@ -1,0 +1,19 @@
+{
+  "id": "c22197f7f8df9f8f0657166ef89c86a7",
+  "title": "Forcing LLMs to be evil during training can make them nicer in the long run",
+  "description": "A new study from Anthropic suggests that traits such as sycophancy or evilness are associated with specific patterns of activity in large language models—and turning on those patterns during training can, paradoxically, prevent the model from adopting the related traits. Large language models have recently acquired a reputation for behaving badly. In April, ChatGPT suddenly&#8230;",
+  "link": "https://www.technologyreview.com/2025/08/01/1120924/forcing-llms-to-be-evil-during-training-can-make-them-nicer-in-the-long-run/",
+  "pubDate": "Fri, 01 Aug 2025 16:00:00 +0000",
+  "source": "MIT Technology Review - AI Section",
+  "category": "techno-optimist",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-03T00:05:12.129Z",
+  "expiresDate": "2025-08-04T00:05:12.129Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-03T00:06:08.075Z"
+}
