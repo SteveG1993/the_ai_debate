@@ -1,0 +1,19 @@
+{
+  "id": "4f6c1f27cf6a8119ea19e4959e58c0f5",
+  "title": "Helping data storage keep up with the AI revolution",
+  "description": "Storage systems from Cloudian, co-founded by an MIT alumnus, are helping businesses feed data-hungry AI models and agents at scale.",
+  "link": "https://news.mit.edu/2025/cloudian-helps-data-storage-keep-up-with-ai-revolution-0806",
+  "pubDate": "Wed, 06 Aug 2025 00:00:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-06T04:17:19.251Z",
+  "expiresDate": "2025-08-07T04:17:19.251Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-06T04:18:12.762Z"
+}
