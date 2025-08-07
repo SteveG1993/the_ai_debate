@@ -1,0 +1,19 @@
+{
+  "id": "37d9b5402c7403d9477f2e6f1267ad7e",
+  "title": "Eco-driving measures could significantly reduce vehicle emissions",
+  "description": "New research shows automatically controlling vehicle speeds to mitigate traffic at intersections can cut carbon emissions between 11 and 22 percent.",
+  "link": "https://news.mit.edu/2025/eco-driving-measures-could-significantly-reduce-vehicle-emissions-0807",
+  "pubDate": "Thu, 07 Aug 2025 00:00:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-07T04:17:06.868Z",
+  "expiresDate": "2025-08-08T04:17:06.868Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-07T04:17:58.471Z"
+}
