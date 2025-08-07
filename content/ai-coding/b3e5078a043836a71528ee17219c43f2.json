@@ -1,0 +1,19 @@
+{
+  "id": "b3e5078a043836a71528ee17219c43f2",
+  "title": "Introducing GPT-5 for developers",
+  "description": "Introducing GPT-5 in our API platform—offering high reasoning performance, new controls for devs, and best-in-class results on real coding tasks.",
+  "link": "https://openai.com/index/introducing-gpt-5-for-developers",
+  "pubDate": "Thu, 07 Aug 2025 10:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-07T20:02:33.626Z",
+  "expiresDate": "2025-08-08T20:02:33.626Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.4,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-07T20:02:40.856Z"
+}
