@@ -1,0 +1,19 @@
+{
+  "id": "519fb47c7114bc0809977f267100f165",
+  "title": "Scaling accounting capacity with OpenAI",
+  "description": "Built with OpenAI o3, o3-Pro, GPT-4.1, and GPT-5, Basis’ AI agents help accounting firms save up to 30% of their time and expand capacity for advisory and growth.",
+  "link": "https://openai.com/index/basis",
+  "pubDate": "Tue, 12 Aug 2025 00:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-12T20:02:35.434Z",
+  "expiresDate": "2025-08-13T20:02:35.434Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-12T20:02:41.660Z"
+}
