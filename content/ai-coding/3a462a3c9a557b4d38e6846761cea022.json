@@ -1,0 +1,19 @@
+{
+  "id": "3a462a3c9a557b4d38e6846761cea022",
+  "title": "The road to artificial general intelligence",
+  "description": "Artificial intelligence models that can discover drugs and write code still fail at puzzles a lay person can master in minutes. This phenomenon sits at the heart of the challenge of artificial general intelligence (AGI). Can today’s AI revolution produce models that rival or surpass human intelligence across all domains? If so, what underlying enablers—whether&#8230;",
+  "link": "https://www.technologyreview.com/2025/08/13/1121479/the-road-to-artificial-general-intelligence/",
+  "pubDate": "Wed, 13 Aug 2025 13:30:00 +0000",
+  "source": "MIT Technology Review - AI Section",
+  "category": "techno-optimist",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-13T16:01:46.564Z",
+  "expiresDate": "2025-08-14T16:01:46.564Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-13T16:02:36.718Z"
+}
