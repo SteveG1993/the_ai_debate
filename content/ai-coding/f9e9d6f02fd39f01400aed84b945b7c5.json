@@ -1,0 +1,19 @@
+{
+  "id": "f9e9d6f02fd39f01400aed84b945b7c5",
+  "title": "This simple magnetic trick could change quantum computing forever",
+  "description": "Researchers have unveiled a new quantum material that could make quantum computers much more stable by using magnetism to protect delicate qubits from environmental disturbances. Unlike traditional approaches that rely on rare spin-orbit interactions, this method uses magnetic interactions—common in many materials—to create robust topological excitations. Combined with a new computational tool for finding such materials, this breakthrough could pave the way for practical, disturbance-resistant quantum computers.",
+  "link": "https://www.sciencedaily.com/releases/2025/08/250816113508.htm",
+  "pubDate": "Sat, 16 Aug 2025 23:50:10 EDT",
+  "source": "Science Daily - AI Ethics",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-08-17T08:01:51.295Z",
+  "expiresDate": "2025-08-18T08:01:51.295Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-17T08:02:43.454Z"
+}
