@@ -1,0 +1,19 @@
+{
+  "id": "3f62836f232b39810f3edeb271c4f9a9",
+  "title": "Scientists just cracked the quantum code hidden in a single atom",
+  "description": "A research team has created a quantum logic gate that uses fewer qubits by encoding them with the powerful GKP error-correction code. By entangling quantum vibrations inside a single atom, they achieved a milestone that could transform how quantum computers scale.",
+  "link": "https://www.sciencedaily.com/releases/2025/08/250821094524.htm",
+  "pubDate": "Fri, 22 Aug 2025 03:35:14 EDT",
+  "source": "Science Daily - AI Ethics",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-08-22T12:02:13.439Z",
+  "expiresDate": "2025-08-23T12:02:13.439Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-22T12:03:03.506Z"
+}
