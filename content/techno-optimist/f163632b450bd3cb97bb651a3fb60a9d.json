@@ -1,0 +1,19 @@
+{
+  "id": "f163632b450bd3cb97bb651a3fb60a9d",
+  "title": "In a first, Google has released data on how much energy an AI prompt uses",
+  "description": "Google has just released a technical report detailing how much energy its Gemini apps use for each query. In total, the median prompt—one that falls in the middle of the range of energy demand—consumes 0.24 watt-hours of electricity, the equivalent of running a standard microwave for about one second. The company also provided average estimates&#8230;",
+  "link": "https://www.technologyreview.com/2025/08/21/1122288/google-gemini-ai-energy/",
+  "pubDate": "Thu, 21 Aug 2025 12:00:00 +0000",
+  "source": "MIT Technology Review - AI Section",
+  "category": "techno-optimist",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-25T04:05:15.130Z",
+  "expiresDate": "2025-08-26T04:05:15.130Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-25T04:06:04.840Z"
+}
