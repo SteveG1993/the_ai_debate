@@ -1,0 +1,19 @@
+{
+  "id": "33496ccff6a6e38b12a498d6e43025cb",
+  "title": "Simpler models can outperform deep learning at climate prediction",
+  "description": "New research shows the natural variability in climate data can cause AI models to struggle at predicting local temperature and rainfall.",
+  "link": "https://news.mit.edu/2025/simpler-models-can-outperform-deep-learning-climate-prediction-0826",
+  "pubDate": "Tue, 26 Aug 2025 09:00:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-26T16:02:13.975Z",
+  "expiresDate": "2025-08-27T16:02:13.975Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-26T16:03:07.792Z"
+}
