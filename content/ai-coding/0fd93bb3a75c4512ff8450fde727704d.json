@@ -1,0 +1,19 @@
+{
+  "id": "0fd93bb3a75c4512ff8450fde727704d",
+  "title": "Collective alignment: public input on our Model Spec",
+  "description": "OpenAI surveyed over 1,000 people worldwide on how AI should behave and compared their views to our Model Spec. Learn how collective alignment is shaping AI defaults to better reflect diverse human values and perspectives.",
+  "link": "https://openai.com/index/collective-alignment-aug-2025-updates",
+  "pubDate": "Wed, 27 Aug 2025 13:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-28T08:02:58.870Z",
+  "expiresDate": "2025-08-29T08:02:58.870Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-28T08:03:05.100Z"
+}
