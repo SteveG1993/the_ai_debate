@@ -1,0 +1,19 @@
+{
+  "id": "22de671899227eb1667b1ca05c2c6489",
+  "title": "MIT researchers develop AI tool to improve flu vaccine strain selection",
+  "description": "VaxSeer uses machine learning to predict virus evolution and antigenicity, aiming to make vaccine selection more accurate and less reliant on guesswork.",
+  "link": "https://news.mit.edu/2025/vaxseer-ai-tool-to-improve-flu-vaccine-strain-selection-0828",
+  "pubDate": "Thu, 28 Aug 2025 11:50:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-08-28T16:02:00.188Z",
+  "expiresDate": "2025-08-29T16:02:00.188Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-08-28T16:02:50.644Z"
+}
