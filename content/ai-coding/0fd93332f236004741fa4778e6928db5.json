@@ -1,0 +1,19 @@
+{
+  "id": "0fd93332f236004741fa4778e6928db5",
+  "title": "Introducing gpt-realtime and Realtime API updates",
+  "description": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
+  "link": "https://openai.com/index/introducing-gpt-realtime",
+  "pubDate": "Thu, 28 Aug 2025 10:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-09-01T08:03:14.866Z",
+  "expiresDate": "2025-09-02T08:03:14.866Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-09-01T08:03:21.095Z"
+}
