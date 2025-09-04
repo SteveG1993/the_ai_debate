@@ -1,0 +1,19 @@
+{
+  "id": "316749830c9e7123caf2eba0bb623953",
+  "title": "A new generative AI approach to predicting chemical reactions",
+  "description": "System developed at MIT could provide realistic predictions for a wide variety of reactions, while maintaining real-world physical constraints.",
+  "link": "https://news.mit.edu/2025/generative-ai-approach-to-predicting-chemical-reactions-0903",
+  "pubDate": "Wed, 03 Sep 2025 15:55:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-09-04T00:04:10.790Z",
+  "expiresDate": "2025-09-05T00:04:10.790Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-09-04T00:05:03.727Z"
+}
