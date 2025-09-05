@@ -1,0 +1,19 @@
+{
+  "id": "2c37c6ed9b07dabd82108d9cf7bd5691",
+  "title": "GPT-5 bio bug bounty call",
+  "description": "OpenAI invites researchers to its Bio Bug Bounty. Test GPT-5’s safety with a universal jailbreak prompt and win up to $25,000.",
+  "link": "https://openai.com/gpt-5-bio-bug-bounty",
+  "pubDate": "Fri, 05 Sep 2025 08:45:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-09-05T16:02:36.160Z",
+  "expiresDate": "2025-09-06T16:02:36.160Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-09-05T16:02:42.388Z"
+}
