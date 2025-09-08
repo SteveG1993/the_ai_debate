@@ -1,0 +1,19 @@
+{
+  "id": "5ee590e79f172bfd674d7c98d9ec0567",
+  "title": "Under the hood: Exploring the AI models powering GitHub Copilot",
+  "description": "Learn how GitHub Copilot’s evolving models and infrastructure center developer choice and power agentic workflows.\nThe post Under the hood: Exploring the AI models powering GitHub Copilot appeared first on The GitHub Blog.",
+  "link": "https://github.blog/ai-and-ml/github-copilot/under-the-hood-exploring-the-ai-models-powering-github-copilot/",
+  "pubDate": "Fri, 29 Aug 2025 16:14:42 +0000",
+  "source": "GitHub Blog - AI",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-09-08T12:03:34.551Z",
+  "expiresDate": "2025-09-09T12:03:34.551Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.4,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-09-08T12:03:40.954Z"
+}
