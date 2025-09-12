@@ -1,0 +1,19 @@
+{
+  "id": "7fb082b1d65b4537bb7b4f61aabebcbd",
+  "title": "AI newbie or certified tech pro? Find out in our AI quiz",
+  "description": "",
+  "link": "https://algorithmwatch.org/en/quiz/",
+  "pubDate": "Fri, 12 Sep 2025 09:07:21 +0000",
+  "source": "Algorithm Watch",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-09-12T12:02:50.067Z",
+  "expiresDate": "2025-09-13T12:02:50.068Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-09-12T12:03:38.005Z"
+}
