@@ -1,0 +1,19 @@
+{
+  "id": "5a95b83dc3e8f29168f4e14d98169713",
+  "title": "Teen safety, freedom, and privacy",
+  "description": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
+  "link": "https://openai.com/index/teen-safety-freedom-and-privacy",
+  "pubDate": "Tue, 16 Sep 2025 06:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-09-16T16:02:37.130Z",
+  "expiresDate": "2025-09-17T16:02:37.130Z",
+  "classification": {
+    "category": "techno-skeptic",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-09-16T16:02:43.361Z"
+}
