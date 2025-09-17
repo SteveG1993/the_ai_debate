@@ -1,0 +1,19 @@
+{
+  "id": "2e204fa72ed74e82d5f0d100dcad29f2",
+  "title": "De-risking investment in AI agents",
+  "description": "Automation has become a defining force in the customer experience. Between the chatbots that answer our questions and the recommendation systems that shape our choices, AI-driven tools are now embedded in nearly every interaction. But the latest wave of so-called “agentic AI”—systems that can plan, act, and adapt toward a defined goal—promises to push automation&#8230;",
+  "link": "https://www.technologyreview.com/2025/09/16/1123592/de-risking-investment-in-ai-agents/",
+  "pubDate": "Tue, 16 Sep 2025 13:00:00 +0000",
+  "source": "MIT Technology Review - AI Section",
+  "category": "techno-optimist",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-09-17T12:02:32.240Z",
+  "expiresDate": "2025-09-18T12:02:32.241Z",
+  "classification": {
+    "category": "techno-skeptic",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-09-17T12:03:28.378Z"
+}
