@@ -1,0 +1,19 @@
+{
+  "id": "45914d2bfdc506675df2042325301416",
+  "title": "AI-powered smart bandage heals wounds 25% faster",
+  "description": "A new wearable device, a-Heal, combines AI, imaging, and bioelectronics to speed up wound recovery. It continuously monitors wounds, diagnoses healing stages, and applies personalized treatments like medicine or electric fields. Preclinical tests showed healing about 25% faster than standard care, highlighting potential for chronic wound therapy.",
+  "link": "https://www.sciencedaily.com/releases/2025/09/250924012232.htm",
+  "pubDate": "Wed, 24 Sep 2025 10:37:47 EDT",
+  "source": "Science Daily - AI Ethics",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-09-24T16:02:18.918Z",
+  "expiresDate": "2025-09-25T16:02:18.918Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-09-24T16:03:13.692Z"
+}
