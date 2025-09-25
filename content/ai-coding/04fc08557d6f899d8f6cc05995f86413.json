@@ -1,0 +1,19 @@
+{
+  "id": "04fc08557d6f899d8f6cc05995f86413",
+  "title": "New AI system could accelerate clinical research",
+  "description": "By enabling rapid annotation of areas of interest in medical images, the tool can help scientists study new treatments or map disease progression.",
+  "link": "https://news.mit.edu/2025/new-ai-system-could-accelerate-clinical-research-0925",
+  "pubDate": "Thu, 25 Sep 2025 00:00:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-09-25T04:01:59.319Z",
+  "expiresDate": "2025-09-26T04:01:59.319Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.4,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-09-25T04:02:53.721Z"
+}
