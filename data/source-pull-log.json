@@ -3,37 +3,37 @@
     "MIT Technology Review - AI Section|https://www.technologyreview.com/topic/artificial-intelligence/feed/": {
       "name": "MIT Technology Review - AI Section",
       "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
-      "pullCount": 80,
+      "pullCount": 81,
       "firstSeen": "2025-07-12T05:49:31.329Z",
-      "lastPull": "2025-09-27T13:08:35.221Z"
+      "lastPull": "2025-09-28T13:08:59.195Z"
     },
     "AI News - Positive|https://www.artificialintelligence-news.com/feed/": {
       "name": "AI News - Positive",
       "url": "https://www.artificialintelligence-news.com/feed/",
-      "pullCount": 75,
+      "pullCount": 76,
       "firstSeen": "2025-07-12T05:49:32.416Z",
-      "lastPull": "2025-09-27T13:08:42.291Z"
+      "lastPull": "2025-09-28T13:09:06.758Z"
     },
     "MIT News - AI|https://news.mit.edu/rss/topic/artificial-intelligence2": {
       "name": "MIT News - AI",
       "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "pullCount": 80,
+      "pullCount": 81,
       "firstSeen": "2025-07-12T05:49:32.559Z",
-      "lastPull": "2025-09-27T13:08:42.394Z"
+      "lastPull": "2025-09-28T13:09:06.866Z"
     },
     "Science Daily - AI Ethics|https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml": {
       "name": "Science Daily - AI Ethics",
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "pullCount": 80,
+      "pullCount": 81,
       "firstSeen": "2025-07-12T05:49:32.932Z",
-      "lastPull": "2025-09-27T13:08:42.674Z"
+      "lastPull": "2025-09-28T13:09:07.079Z"
     },
     "Algorithm Watch|https://algorithmwatch.org/en/feed/": {
       "name": "Algorithm Watch",
       "url": "https://algorithmwatch.org/en/feed/",
-      "pullCount": 80,
+      "pullCount": 81,
       "firstSeen": "2025-07-12T05:49:34.179Z",
-      "lastPull": "2025-09-27T13:08:44.259Z"
+      "lastPull": "2025-09-28T13:09:08.798Z"
     },
     "AI Snake Oil|https://aisnakeoil.substack.com/feed": {
       "name": "AI Snake Oil",
@@ -52,25 +52,25 @@
     "Center for Humane Technology Forum|https://community.humanetech.com/latest.rss": {
       "name": "Center for Humane Technology Forum",
       "url": "https://community.humanetech.com/latest.rss",
-      "pullCount": 80,
+      "pullCount": 81,
       "firstSeen": "2025-07-12T05:49:48.116Z",
-      "lastPull": "2025-09-27T13:09:10.433Z"
+      "lastPull": "2025-09-28T13:09:35.543Z"
     },
     "GitHub Blog - AI|https://github.blog/tag/ai/feed/": {
       "name": "GitHub Blog - AI",
       "url": "https://github.blog/tag/ai/feed/",
-      "pullCount": 80,
+      "pullCount": 81,
       "firstSeen": "2025-07-12T05:50:08.025Z",
-      "lastPull": "2025-09-27T13:09:31.686Z"
+      "lastPull": "2025-09-28T13:09:55.860Z"
     },
     "OpenAI Blog|https://openai.com/blog/rss.xml": {
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
-      "pullCount": 80,
+      "pullCount": 81,
       "firstSeen": "2025-07-12T05:50:08.246Z",
-      "lastPull": "2025-09-27T13:09:31.830Z"
+      "lastPull": "2025-09-28T13:09:56.069Z"
     }
   },
-  "lastUpdated": "2025-09-27T13:09:31.830Z",
-  "totalPulls": 639
+  "lastUpdated": "2025-09-28T13:09:56.069Z",
+  "totalPulls": 647
 }
