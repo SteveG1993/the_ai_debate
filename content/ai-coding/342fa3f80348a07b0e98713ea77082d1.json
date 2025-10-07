@@ -1,0 +1,19 @@
+{
+  "id": "342fa3f80348a07b0e98713ea77082d1",
+  "title": "Introducing apps in ChatGPT and the new Apps SDK",
+  "description": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
+  "link": "https://openai.com/index/introducing-apps-in-chatgpt",
+  "pubDate": "Mon, 06 Oct 2025 10:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-10-07T00:05:27.114Z",
+  "expiresDate": "2025-10-08T00:05:27.114Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-07T00:05:33.341Z"
+}
