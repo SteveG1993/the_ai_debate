@@ -1,0 +1,19 @@
+{
+  "id": "7acd3aebf44a56c234a235a6d180b2dd",
+  "title": "Fighting for the health of the planet with AI",
+  "description": "Assistant Professor Priya Donti’s research applies machine learning to optimize renewable energy.",
+  "link": "https://news.mit.edu/2025/fighting-health-planet-ai-priya-donti-1007",
+  "pubDate": "Tue, 07 Oct 2025 16:55:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-10-08T00:04:32.516Z",
+  "expiresDate": "2025-10-09T00:04:32.516Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-08T00:05:23.768Z"
+}
