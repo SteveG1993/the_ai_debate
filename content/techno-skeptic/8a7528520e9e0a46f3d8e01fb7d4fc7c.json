@@ -1,0 +1,19 @@
+{
+  "id": "8a7528520e9e0a46f3d8e01fb7d4fc7c",
+  "title": "Defining and evaluating political bias in LLMs",
+  "description": "Learn how OpenAI evaluates political bias in ChatGPT through new real-world testing methods that improve objectivity and reduce bias.",
+  "link": "https://openai.com/index/defining-and-evaluating-political-bias-in-llms",
+  "pubDate": "Thu, 09 Oct 2025 13:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-10-09T20:02:50.127Z",
+  "expiresDate": "2025-10-10T20:02:50.127Z",
+  "classification": {
+    "category": "techno-skeptic",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-09T20:02:55.353Z"
+}
