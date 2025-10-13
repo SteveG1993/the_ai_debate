@@ -1,0 +1,19 @@
+{
+  "id": "d5804a6cb3e5b77554dd4001289f2935",
+  "title": "90% of science is lost. This new AI just found it",
+  "description": "Vast amounts of valuable research data remain unused, trapped in labs or lost to time. Frontiers aims to change that with FAIR² Data Management, a groundbreaking AI-driven system that makes datasets reusable, verifiable, and citable. By uniting curation, compliance, peer review, and interactive visualization in one platform, FAIR² empowers scientists to share their work responsibly and gain recognition.",
+  "link": "https://www.sciencedaily.com/releases/2025/10/251013040314.htm",
+  "pubDate": "Mon, 13 Oct 2025 08:46:51 EDT",
+  "source": "Science Daily - AI Ethics",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-10-13T16:01:51.521Z",
+  "expiresDate": "2025-10-14T16:01:51.521Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-13T16:02:43.996Z"
+}
