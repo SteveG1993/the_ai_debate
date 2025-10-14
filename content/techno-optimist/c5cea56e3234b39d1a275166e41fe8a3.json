@@ -1,0 +1,19 @@
+{
+  "id": "c5cea56e3234b39d1a275166e41fe8a3",
+  "title": "Scientists build artificial neurons that work like real ones",
+  "description": "UMass Amherst engineers have built an artificial neuron powered by bacterial protein nanowires that functions like a real one, but at extremely low voltage. This allows for seamless communication with biological cells and drastically improved energy efficiency. The discovery could lead to bio-inspired computers and wearable electronics that no longer need power-hungry amplifiers. Future applications may include sensors powered by sweat or devices that harvest electricity from thin air.",
+  "link": "https://www.sciencedaily.com/releases/2025/10/251013040335.htm",
+  "pubDate": "Tue, 14 Oct 2025 01:31:23 EDT",
+  "source": "Science Daily - AI Ethics",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-10-14T08:01:59.809Z",
+  "expiresDate": "2025-10-15T08:01:59.809Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-14T08:02:53.112Z"
+}
