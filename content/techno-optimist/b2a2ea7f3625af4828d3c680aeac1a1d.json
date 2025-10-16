@@ -1,0 +1,19 @@
+{
+  "id": "b2a2ea7f3625af4828d3c680aeac1a1d",
+  "title": "Method teaches generative AI models to locate personalized objects",
+  "description": "After being trained with this technique, vision-language models can better identify a unique item in a new scene.",
+  "link": "https://news.mit.edu/2025/method-teaches-generative-ai-models-locate-personalized-objects-1016",
+  "pubDate": "Thu, 16 Oct 2025 00:00:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-10-16T08:02:15.703Z",
+  "expiresDate": "2025-10-17T08:02:15.703Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-16T08:03:07.259Z"
+}
