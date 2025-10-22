@@ -1,0 +1,19 @@
+{
+  "id": "3b9ec0d2bf80251ccb49a81f5b8fb68b",
+  "title": "Creating AI that matters",
+  "description": "How the MIT-IBM Watson AI Lab is shaping AI-sociotechnical systems for the future.",
+  "link": "https://news.mit.edu/2025/creating-ai-that-matters-1021",
+  "pubDate": "Tue, 21 Oct 2025 16:10:00 -0400",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-10-22T00:04:52.572Z",
+  "expiresDate": "2025-10-23T00:04:52.572Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-22T00:05:45.808Z"
+}
