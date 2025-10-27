@@ -1,0 +1,19 @@
+{
+  "id": "3bace36dfb4e59a8e319c1b8cbabfc5f",
+  "title": "Seizing the AI opportunity",
+  "description": "Meeting the demands of the Intelligence Age will require strategic investment in energy and infrastructure. OpenAI’s submission to the White House details how expanding capacity and workforce readiness can sustain U.S. leadership in AI and economic growth.",
+  "link": "https://openai.com/global-affairs/seizing-the-ai-opportunity",
+  "pubDate": "Mon, 27 Oct 2025 12:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-10-27T20:02:37.482Z",
+  "expiresDate": "2025-10-28T20:02:37.482Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-27T20:02:42.711Z"
+}
