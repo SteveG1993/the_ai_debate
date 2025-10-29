@@ -1,0 +1,19 @@
+{
+  "id": "5293dc0cf173727760497b7724878267",
+  "title": "The engineer&#8217;s guide to automating DAST tools",
+  "description": "In modern software development, speed and security must go hand in hand. Teams are shipping code faster than ever, but such a rapid pace can introduce security vulnerabilities if not managed correctly. Dynamic Application Security Testing (DAST) is an important practice for finding security flaws in running applications. However, manual DAST scans can be slow [&#8230;]\nThe post The engineer&#8217;s guide to automating DAST tools appeared first on AI News.",
+  "link": "https://www.artificialintelligence-news.com/news/the-engineers-guide-to-automating-dast-tools/",
+  "pubDate": "Tue, 28 Oct 2025 11:01:04 +0000",
+  "source": "AI News - Positive",
+  "category": "techno-optimist",
+  "credibility": 0.7,
+  "classified": true,
+  "fetchedDate": "2025-10-29T04:05:14.527Z",
+  "expiresDate": "2025-10-30T04:05:14.528Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.8,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-29T04:06:04.810Z"
+}
