@@ -1,7 +1,7 @@
 {
-  "lastClassification": "2025-10-28T13:15:56.107Z",
-  "totalClassified": 7,
-  "totalMoved": 6,
+  "lastClassification": "2025-10-29T13:17:13.189Z",
+  "totalClassified": 8,
+  "totalMoved": 5,
   "apiProviders": {
     "openai": false,
     "claude": false
