@@ -1,0 +1,19 @@
+{
+  "id": "bad3f16acb7628717d48b7ae8ceb11d0",
+  "title": "Knowledge preservation powered by ChatGPT",
+  "description": "Dai Nippon Printing (DNP) rolled out ChatGPT Enterprise across ten core departments to drive companywide adoption. Within three months, it achieved 95% faster patent research, 10x processing volume, 100% weekly active usage, 87% automation, and 70% knowledge reuse.",
+  "link": "https://openai.com/index/dai-nippon-printing",
+  "pubDate": "Tue, 28 Oct 2025 17:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-10-29T00:05:29.957Z",
+  "expiresDate": "2025-10-30T00:05:29.957Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-29T00:05:36.184Z"
+}
