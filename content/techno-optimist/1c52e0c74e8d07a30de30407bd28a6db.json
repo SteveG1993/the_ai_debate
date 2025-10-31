@@ -1,0 +1,19 @@
+{
+  "id": "1c52e0c74e8d07a30de30407bd28a6db",
+  "title": "An AI slop farm stole my identity",
+  "description": "AI slop is everywhere. By one estimate, roughly one in five articles referenced on Google Discover is automatically generated. It's less known that AI slop farms steal the identity of existing journalists and influencers to increase the odds of being picked up by these algorithms.",
+  "link": "https://algorithmwatch.org/en/an-ai-slop-farm-stole-my-identity/",
+  "pubDate": "Fri, 31 Oct 2025 06:00:00 +0000",
+  "source": "Algorithm Watch",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-10-31T08:01:48.343Z",
+  "expiresDate": "2025-11-01T08:01:48.343Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-10-31T08:02:37.716Z"
+}
