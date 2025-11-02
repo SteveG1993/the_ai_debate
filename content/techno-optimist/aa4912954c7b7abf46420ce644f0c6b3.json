@@ -8,12 +8,12 @@
   "category": "techno-skeptic",
   "credibility": 0.9,
   "classified": true,
-  "fetchedDate": "2025-11-02T12:02:00.052Z",
-  "expiresDate": "2025-11-03T12:02:00.052Z",
+  "fetchedDate": "2025-11-02T13:09:47.848Z",
+  "expiresDate": "2025-11-03T13:09:47.848Z",
   "classification": {
     "category": "techno-optimist",
     "confidence": 0.2,
     "provider": "fallback"
   },
-  "classifiedDate": "2025-11-02T12:02:53.064Z"
+  "classifiedDate": "2025-11-02T13:10:41.734Z"
 }
