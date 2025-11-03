@@ -1,0 +1,19 @@
+{
+  "id": "626f856cfc38adde0ca00f6a61eb57b6",
+  "title": "A faster problem-solving tool that guarantees feasibility",
+  "description": "The FSNet system, developed at MIT, could help power grid operators rapidly find feasible solutions for optimizing the flow of electricity.",
+  "link": "https://news.mit.edu/2025/faster-problem-solving-tool-guarantees-feasibility-1103",
+  "pubDate": "Mon, 03 Nov 2025 00:00:00 -0500",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-03T08:02:58.962Z",
+  "expiresDate": "2025-11-04T08:02:58.962Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.4,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-03T08:03:51.149Z"
+}
