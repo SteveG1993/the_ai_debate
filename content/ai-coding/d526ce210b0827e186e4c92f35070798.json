@@ -1,0 +1,19 @@
+{
+  "id": "d526ce210b0827e186e4c92f35070798",
+  "title": "Teaching robots to map large environments",
+  "description": "A new approach developed at MIT could help a search-and-rescue robot navigate an unpredictable environment by rapidly generating an accurate map of its surroundings.",
+  "link": "https://news.mit.edu/2025/teaching-robots-to-map-large-environments-1105",
+  "pubDate": "Wed, 05 Nov 2025 10:00:00 -0500",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-05T16:01:47.305Z",
+  "expiresDate": "2025-11-06T16:01:47.305Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-05T16:02:42.795Z"
+}
