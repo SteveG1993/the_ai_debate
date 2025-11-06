@@ -1,0 +1,19 @@
+{
+  "id": "356efbcd06873646de562475edf7b77a",
+  "title": "MIT researchers propose a new model for legible, modular software",
+  "description": "The coding framework uses modular concepts and simple synchronization rules to make software clearer, safer, and easier for LLMs to generate.",
+  "link": "https://news.mit.edu/2025/mit-researchers-propose-new-model-for-legible-modular-software-1106",
+  "pubDate": "Thu, 06 Nov 2025 08:00:00 -0500",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-06T13:15:25.644Z",
+  "expiresDate": "2025-11-07T13:15:25.644Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.4,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-06T13:16:20.030Z"
+}
