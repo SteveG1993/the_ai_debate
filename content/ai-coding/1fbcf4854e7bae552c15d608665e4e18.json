@@ -1,0 +1,19 @@
+{
+  "id": "1fbcf4854e7bae552c15d608665e4e18",
+  "title": "How CRED is tapping AI to deliver premium customer experiences",
+  "description": "CRED is transforming premium customer experiences in India with OpenAI. Using GPT-powered tools, the company is improving support accuracy, reducing response times, and boosting customer satisfaction.",
+  "link": "https://openai.com/index/cred-swamy-seetharaman",
+  "pubDate": "Wed, 05 Nov 2025 21:30:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-06T04:05:34.823Z",
+  "expiresDate": "2025-11-07T04:05:34.823Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-06T04:05:41.054Z"
+}
