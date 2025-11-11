@@ -1,0 +1,19 @@
+{
+  "id": "7ae36e3145815b1c138d357a316a7b0e",
+  "title": "Wiz: Security lapses emerge amid the global AI race",
+  "description": "According to Wiz, the race among AI companies is causing many to overlook basic security hygiene practices. 65 percent of the 50 leading AI firms the cybersecurity firm analysed had leaked verified secrets on GitHub. The exposures include API keys, tokens, and sensitive credentials, often buried in code repositories that standard security tools do not [&#8230;]\nThe post Wiz: Security lapses emerge amid the global AI race appeared first on AI News.",
+  "link": "https://www.artificialintelligence-news.com/news/wiz-security-lapses-emerge-amid-global-ai-race/",
+  "pubDate": "Tue, 11 Nov 2025 17:05:25 +0000",
+  "source": "AI News - Positive",
+  "category": "techno-optimist",
+  "credibility": 0.7,
+  "classified": true,
+  "fetchedDate": "2025-11-11T20:01:49.811Z",
+  "expiresDate": "2025-11-12T20:01:49.811Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.8,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-11T20:02:42.299Z"
+}
