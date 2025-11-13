@@ -1,0 +1,19 @@
+{
+  "id": "2bc6e923811fc47c8a0cdd79b884bc40",
+  "title": "Google DeepMind is using Gemini to train agents inside Goat Simulator 3",
+  "description": "Google DeepMind has built a new video-game-playing agent called SIMA 2 that can navigate and solve problems in a wide range of 3D virtual worlds. The company claims it’s a big step toward more general-purpose agents and better real-world robots.    Google DeepMind first demoed SIMA (which stands for “scalable instructable multiworld agent”) last year. But&#8230;",
+  "link": "https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/",
+  "pubDate": "Thu, 13 Nov 2025 15:00:00 +0000",
+  "source": "MIT Technology Review - AI Section",
+  "category": "techno-optimist",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-13T16:01:39.463Z",
+  "expiresDate": "2025-11-14T16:01:39.463Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-13T16:02:33.824Z"
+}
