@@ -1,0 +1,19 @@
+{
+  "id": "96bd3fe7fccd6591f159a01229a4167d",
+  "title": "New prediction breakthrough delivers results shockingly close to reality",
+  "description": "Researchers have created a prediction method that comes startlingly close to real-world results. It works by aiming for strong alignment with actual values rather than simply reducing mistakes. Tests on medical and health data showed it often outperforms classic approaches. The discovery could reshape how scientists make reliable forecasts.",
+  "link": "https://www.sciencedaily.com/releases/2025/11/251112111023.htm",
+  "pubDate": "Fri, 14 Nov 2025 02:09:08 EST",
+  "source": "Science Daily - AI Ethics",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-11-14T08:02:04.750Z",
+  "expiresDate": "2025-11-15T08:02:04.750Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-14T08:02:54.000Z"
+}

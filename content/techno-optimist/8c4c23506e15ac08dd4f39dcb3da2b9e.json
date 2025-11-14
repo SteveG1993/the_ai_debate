@@ -1,0 +1,19 @@
+{
+  "id": "8c4c23506e15ac08dd4f39dcb3da2b9e",
+  "title": "Are all LLMs the same? I set out to measure their similarity.",
+  "description": "AI-generated text often has a certain je-ne-sais-quoi of monotony and blandness, whatever model is used. An attempt to put a number on this phenomenon shows once more that measuring meaning is close to impossible.",
+  "link": "https://algorithmwatch.org/en/are-all-llms-the-same-i-set-out-to-measure-their-similarity/",
+  "pubDate": "Fri, 14 Nov 2025 06:00:00 +0000",
+  "source": "Algorithm Watch",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-11-14T08:02:06.345Z",
+  "expiresDate": "2025-11-15T08:02:06.345Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-14T08:02:52.997Z"
+}
