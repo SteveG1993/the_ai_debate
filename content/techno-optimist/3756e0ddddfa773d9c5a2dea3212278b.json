@@ -1,0 +1,19 @@
+{
+  "id": "3756e0ddddfa773d9c5a2dea3212278b",
+  "title": "A single beam of light runs AI with supercomputer power",
+  "description": "Aalto University researchers have developed a method to execute AI tensor operations using just one pass of light. By encoding data directly into light waves, they enable calculations to occur naturally and simultaneously. The approach works passively, without electronics, and could soon be integrated into photonic chips. If adopted, it promises dramatically faster and more energy-efficient AI systems.",
+  "link": "https://www.sciencedaily.com/releases/2025/11/251115095923.htm",
+  "pubDate": "Sun, 16 Nov 2025 02:00:12 EST",
+  "source": "Science Daily - AI Ethics",
+  "category": "techno-skeptic",
+  "credibility": 0.8,
+  "classified": true,
+  "fetchedDate": "2025-11-16T12:02:34.292Z",
+  "expiresDate": "2025-11-17T12:02:34.292Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-16T12:03:26.739Z"
+}
