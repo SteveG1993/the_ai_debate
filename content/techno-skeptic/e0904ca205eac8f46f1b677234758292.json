@@ -1,0 +1,19 @@
+{
+  "id": "e0904ca205eac8f46f1b677234758292",
+  "title": "Strengthening our safety ecosystem with external testing",
+  "description": "OpenAI works with independent experts to evaluate frontier AI systems. Third-party testing strengthens safety, validates safeguards, and increases transparency in how we assess model capabilities and risks.",
+  "link": "https://openai.com/index/strengthening-safety-with-external-testing",
+  "pubDate": "Wed, 19 Nov 2025 12:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-19T20:02:29.986Z",
+  "expiresDate": "2025-11-20T20:02:29.986Z",
+  "classification": {
+    "category": "techno-skeptic",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-19T20:02:37.225Z"
+}
