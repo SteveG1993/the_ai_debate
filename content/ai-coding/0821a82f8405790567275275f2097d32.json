@@ -1,0 +1,19 @@
+{
+  "id": "0821a82f8405790567275275f2097d32",
+  "title": "Google’s new Gemini 3 &#8220;vibe-codes&#8221; responses and comes with its own agent",
+  "description": "Google today unveiled Gemini 3, a major upgrade to its flagship multimodal model. The firm says the new model is better at reasoning, has more fluid multimodal capabilities (the ability to work across voice, text or images), and will work like an agent.&#160; The previous model, Gemini 2.5, supports multimodal input. Users can feed it&#8230;",
+  "link": "https://www.technologyreview.com/2025/11/18/1128065/googles-gemini-3/",
+  "pubDate": "Tue, 18 Nov 2025 16:00:07 +0000",
+  "source": "MIT Technology Review - AI Section",
+  "category": "techno-optimist",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-19T04:02:53.910Z",
+  "expiresDate": "2025-11-20T04:02:53.910Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-19T04:03:49.309Z"
+}
