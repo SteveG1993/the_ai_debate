@@ -1,0 +1,19 @@
+{
+  "id": "1fe37786a5ff6083b418c88a94553aef",
+  "title": "Helping 1,000 small businesses build with AI",
+  "description": "OpenAI is partnering with DoorDash, SCORE, and local organizations to help 1,000 small businesses build with AI. The Small Business AI Jam gives Main Street business owners hands-on tools and training to compete and grow.",
+  "link": "https://openai.com/index/small-business-ai-jam",
+  "pubDate": "Thu, 20 Nov 2025 06:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-20T16:03:09.481Z",
+  "expiresDate": "2025-11-21T16:03:09.481Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-20T16:03:15.709Z"
+}
