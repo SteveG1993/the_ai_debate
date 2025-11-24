@@ -1,0 +1,19 @@
+{
+  "id": "a90dd8e972c7d632c5602db002e7b588",
+  "title": "TypeScript, Python, and the AI feedback loop changing software development",
+  "description": "An interview with the leader of GitHub Next, Idan Gazit, on TypeScript, Python, and what comes next. \nThe post TypeScript, Python, and the AI feedback loop changing software development appeared first on The GitHub Blog.",
+  "link": "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/",
+  "pubDate": "Thu, 13 Nov 2025 16:00:00 +0000",
+  "source": "GitHub Blog - AI",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-24T08:03:23.935Z",
+  "expiresDate": "2025-11-25T08:03:23.935Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.4,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-24T08:03:30.351Z"
+}
