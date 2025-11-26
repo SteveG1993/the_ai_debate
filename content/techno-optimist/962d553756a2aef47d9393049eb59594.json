@@ -1,0 +1,19 @@
+{
+  "id": "962d553756a2aef47d9393049eb59594",
+  "title": "Researchers discover a shortcoming that makes LLMs less reliable",
+  "description": "Large language models can learn to mistakenly link certain sentence patterns with specific topics — and may then repeat these patterns instead of reasoning.",
+  "link": "https://news.mit.edu/2025/shortcoming-makes-llms-less-reliable-1126",
+  "pubDate": "Wed, 26 Nov 2025 00:00:00 -0500",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-26T08:01:59.095Z",
+  "expiresDate": "2025-11-27T08:01:59.095Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-26T08:02:48.566Z"
+}
