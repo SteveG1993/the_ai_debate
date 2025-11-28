@@ -1,0 +1,19 @@
+{
+  "id": "ccf0d0d9523185b54fa24f5c2603c610",
+  "title": "Mixpanel security incident: what OpenAI users need to know",
+  "description": "OpenAI shares details about a Mixpanel security incident involving limited API analytics data. No API content, credentials, or payment details were exposed. Learn what happened and how we’re protecting users.",
+  "link": "https://openai.com/index/mixpanel-incident",
+  "pubDate": "Wed, 26 Nov 2025 19:00:00 GMT",
+  "source": "OpenAI Blog",
+  "category": "ai-coding",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-11-28T12:03:29.839Z",
+  "expiresDate": "2025-11-29T12:03:29.839Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-11-28T12:03:37.084Z"
+}
