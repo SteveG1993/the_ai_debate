@@ -3,9 +3,9 @@
     "MIT Technology Review - AI Section|https://www.technologyreview.com/topic/artificial-intelligence/feed/": {
       "name": "MIT Technology Review - AI Section",
       "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
-      "pullCount": 142,
+      "pullCount": 143,
       "firstSeen": "2025-07-12T05:49:31.329Z",
-      "lastPull": "2025-11-28T13:14:45.657Z"
+      "lastPull": "2025-11-29T13:11:51.825Z"
     },
     "AI News - Positive|https://www.artificialintelligence-news.com/feed/": {
       "name": "AI News - Positive",
@@ -17,23 +17,23 @@
     "MIT News - AI|https://news.mit.edu/rss/topic/artificial-intelligence2": {
       "name": "MIT News - AI",
       "url": "https://news.mit.edu/rss/topic/artificial-intelligence2",
-      "pullCount": 142,
+      "pullCount": 143,
       "firstSeen": "2025-07-12T05:49:32.559Z",
-      "lastPull": "2025-11-28T13:14:53.605Z"
+      "lastPull": "2025-11-29T13:11:59.607Z"
     },
     "Science Daily - AI Ethics|https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml": {
       "name": "Science Daily - AI Ethics",
       "url": "https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml",
-      "pullCount": 141,
+      "pullCount": 142,
       "firstSeen": "2025-07-12T05:49:32.932Z",
-      "lastPull": "2025-11-28T13:14:53.942Z"
+      "lastPull": "2025-11-29T13:12:00.000Z"
     },
     "Algorithm Watch|https://algorithmwatch.org/en/feed/": {
       "name": "Algorithm Watch",
       "url": "https://algorithmwatch.org/en/feed/",
-      "pullCount": 142,
+      "pullCount": 143,
       "firstSeen": "2025-07-12T05:49:34.179Z",
-      "lastPull": "2025-11-28T13:14:56.547Z"
+      "lastPull": "2025-11-29T13:12:01.630Z"
     },
     "AI Snake Oil|https://aisnakeoil.substack.com/feed": {
       "name": "AI Snake Oil",
@@ -52,25 +52,25 @@
     "Center for Humane Technology Forum|https://community.humanetech.com/latest.rss": {
       "name": "Center for Humane Technology Forum",
       "url": "https://community.humanetech.com/latest.rss",
-      "pullCount": 142,
+      "pullCount": 143,
       "firstSeen": "2025-07-12T05:49:48.116Z",
-      "lastPull": "2025-11-28T13:15:22.411Z"
+      "lastPull": "2025-11-29T13:12:27.866Z"
     },
     "GitHub Blog - AI|https://github.blog/tag/ai/feed/": {
       "name": "GitHub Blog - AI",
       "url": "https://github.blog/tag/ai/feed/",
-      "pullCount": 142,
+      "pullCount": 143,
       "firstSeen": "2025-07-12T05:50:08.025Z",
-      "lastPull": "2025-11-28T13:15:42.965Z"
+      "lastPull": "2025-11-29T13:12:48.764Z"
     },
     "OpenAI Blog|https://openai.com/blog/rss.xml": {
       "name": "OpenAI Blog",
       "url": "https://openai.com/blog/rss.xml",
-      "pullCount": 142,
+      "pullCount": 143,
       "firstSeen": "2025-07-12T05:50:08.246Z",
-      "lastPull": "2025-11-28T13:15:43.210Z"
+      "lastPull": "2025-11-29T13:12:49.011Z"
     }
   },
-  "lastUpdated": "2025-11-28T13:15:43.210Z",
-  "totalPulls": 1133
+  "lastUpdated": "2025-11-29T13:12:49.011Z",
+  "totalPulls": 1140
 }
