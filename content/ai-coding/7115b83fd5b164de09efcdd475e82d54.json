@@ -1,0 +1,19 @@
+{
+  "id": "7115b83fd5b164de09efcdd475e82d54",
+  "title": "An AI model trained on prison phone calls now looks for planned crimes in those calls",
+  "description": "A US telecom company trained an AI model on years of inmates’ phone and video calls and is now piloting that model to scan their calls, texts, and emails in the hope of predicting and preventing crimes.&#160; Securus Technologies president Kevin Elder told MIT Technology Review that the company began building its AI tools in&#8230;",
+  "link": "https://www.technologyreview.com/2025/12/01/1128591/an-ai-model-trained-on-prison-phone-calls-is-now-being-used-to-surveil-inmates/",
+  "pubDate": "Mon, 01 Dec 2025 10:30:00 +0000",
+  "source": "MIT Technology Review - AI Section",
+  "category": "techno-optimist",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-12-01T12:02:34.601Z",
+  "expiresDate": "2025-12-02T12:02:34.601Z",
+  "classification": {
+    "category": "ai-coding",
+    "confidence": 0.2,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-12-01T12:03:30.711Z"
+}
