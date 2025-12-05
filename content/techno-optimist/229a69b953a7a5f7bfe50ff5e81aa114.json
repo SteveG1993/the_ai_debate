@@ -1,0 +1,19 @@
+{
+  "id": "229a69b953a7a5f7bfe50ff5e81aa114",
+  "title": "MIT researchers “speak objects into existence” using AI and robotics",
+  "description": "The speech-to-reality system combines 3D generative AI and robotic assembly to create objects on demand.",
+  "link": "https://news.mit.edu/2025/mit-researchers-speak-objects-existence-using-ai-robotics-1205",
+  "pubDate": "Fri, 05 Dec 2025 10:00:00 -0500",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-12-05T16:01:45.377Z",
+  "expiresDate": "2025-12-06T16:01:45.377Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-12-05T16:02:35.519Z"
+}
