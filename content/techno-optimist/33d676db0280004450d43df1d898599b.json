@@ -1,0 +1,19 @@
+{
+  "id": "33d676db0280004450d43df1d898599b",
+  "title": "Robots that spare warehouse workers the heavy lifting",
+  "description": "Founded by MIT alumni, the Pickle Robot Company has developed machines that can autonomously load and unload trucks inside warehouses and logistic centers.",
+  "link": "https://news.mit.edu/2025/robots-spare-warehouse-workers-heavy-lifting-1205",
+  "pubDate": "Fri, 05 Dec 2025 00:00:00 -0500",
+  "source": "MIT News - AI",
+  "category": "techno-skeptic",
+  "credibility": 0.9,
+  "classified": true,
+  "fetchedDate": "2025-12-05T08:02:06.808Z",
+  "expiresDate": "2025-12-06T08:02:06.808Z",
+  "classification": {
+    "category": "techno-optimist",
+    "confidence": 0,
+    "provider": "fallback"
+  },
+  "classifiedDate": "2025-12-05T08:02:56.084Z"
+}
